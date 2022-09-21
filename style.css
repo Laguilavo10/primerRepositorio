@@ -1,5 +1,5 @@
 main{
-    background-color: aqua;
+    background-color: green;
     border: 4px solid black;
     margin: auto;
     width: 400px;
@@ -7,4 +7,9 @@ main{
     flex-direction: column;
     justify-content: center;
     align-items: center;
+}
+
+main div{
+    background-color: red;
+    padding: 5px;
 }
