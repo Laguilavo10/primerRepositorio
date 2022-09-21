@@ -8,3 +8,8 @@ main{
     justify-content: center;
     align-items: center;
 }
+
+main div{
+    background-color: red;
+    padding: 5px;
+}
